@@ -3,8 +3,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 
-import 'sidebar.dart';
-
 class MainAppBar extends StatelessWidget implements PreferredSizeWidget {
   final String user = "Reema";
 
